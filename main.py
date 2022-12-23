@@ -3,7 +3,7 @@ import time
 from telebot.async_telebot import AsyncTeleBot
 from lib import *
 
-TOKEN = '5950061917:AAFV6D2YRLyQoCPuMHA7OTZpbo_xnniot2k'
+TOKEN = '...'
 
 bot = AsyncTeleBot(TOKEN)
 users = {}
